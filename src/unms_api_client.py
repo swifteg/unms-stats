@@ -1,5 +1,4 @@
 import requests
-import json
 
 class UnmsApi():
     def __init__(self, endpoint, api_key=''):
